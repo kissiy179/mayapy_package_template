@@ -1,2 +1,2 @@
-# mayapy_package_base
-Mayaで使用するpythonパッケージを作成する際のベースパッケージ
+# mayapy_package_template
+Mayaで使用するpythonパッケージを作成する際のテンプレートパッケージ
